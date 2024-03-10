@@ -4,7 +4,7 @@ A simple utility function for rounding numbers according to specific Hungarian (
 
 ## Installation
 ```bash
-npm install @Happy-Gastro/hungarian-round-numbers
+npm install @happy-gastro/hungarian-round-numbers
 ```
 
 ## Usage

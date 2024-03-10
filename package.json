@@ -1,6 +1,6 @@
 {
   "name": "@happy-gastro/hungarian-round-numbers",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Round hungarian cash payments up or down depends on amount",
   "main": "src/hungarianRoundNumbers.js",
   "scripts": {
