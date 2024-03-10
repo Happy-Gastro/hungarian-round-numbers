@@ -1,12 +1,12 @@
 {
   "name": "@happy-gastro/hungarian-round-numbers",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Round hungarian cash payments up or down depends on amount",
   "main": "src/hungarianRoundNumbers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["round", "hungarian", "forint", "HUF", "Hungarian cash payment", "round cash payment"],
   "author": {
     "name": "Ferenc Farkas",
     "email": "ferenc.farkas@happygastro.hu",
