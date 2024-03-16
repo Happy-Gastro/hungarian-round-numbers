@@ -13,8 +13,9 @@ const hungarianRoundNumbers = require('@happy-gastro/hungarian-round-numbers');
 or
 import {hungarianRoundNumbers} from "@happy-gastro/hungarian-round-numbers"
 
-console.log(hungarianRoundNumbers(135)); // Output: 135
-console.log(hungarianRoundNumbers(132)); // Output: 135
+console.log(hungarianRoundNumbers(130)); // Output: 130
+console.log(hungarianRoundNumbers(134)); // Output: 135
+console.log(hungarianRoundNumbers(132)); // Output: 130
 console.log(hungarianRoundNumbers(138)); // Output: 140
 ```
 
@@ -27,7 +28,7 @@ This project is developed and maintained by Farkas Ferenc.
 
 - **Name**: Farkas Ferenc
 - **Email**: [ferenc.farkas@happygastro.hu](mailto:ferenc.farkas@happygastro.hu)
-- **Website**: [www.happygastro.org](http://www.happygastro.org)
+- **Website**: [www.happygastro.hu](http://www.happygastro.org)
 
 ## Company
 
